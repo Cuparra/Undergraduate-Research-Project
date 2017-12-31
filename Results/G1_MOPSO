@@ -1,0 +1,107 @@
+ZDT1
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+ZDT2
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+ZDT3
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0
+
+ZDT4
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+ZDT6
+Mean =  0.9982
+Var =  3.276e-05
+Min =  0.98
+Max =  1.0 
+
+G1_FON
+Mean =  0.8742
+Var =  0.00153036
+Min =  0.78
+Max =  0.96 
+
+Ghv_ZDT1
+Mean =  304.579
+Var =  142.124059
+Min =  271.7
+Max =  333.3 
+
+Ghv_ZDT2
+Mean =  328.141
+Var =  28.524419
+Min =  317.9
+Max =  333.3 
+
+Ghv_ZDT3
+Mean =  305.734
+Var =  146.066844
+Min =  279.4
+Max =  333.3 
+
+Ghv_ZDT4
+Mean =  309.310901376
+Var =  96980.3337826
+Min =  157.005592902
+Max =  1589.80068331 
+
+Ghv_ZDT6
+Mean =  117.477447155
+Var =  0.000223866122799
+Min =  117.426945127
+Max =  117.501200681 
+
+G1hv_FON
+Mean =  119.699103284
+Var =  0.0275341383524
+Min =  119.28775786
+Max =  120.061837288 
+
+Gs_ZDT1
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+Gs_ZDT2
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+Gs_ZDT3
+Mean =  0.0
+Var =  0.0
+Min =  0.0
+Max =  0.0 
+
+Gs_ZDT4(sem e-20)
+Mean =  3592183.13437
+Var =  2.225311391e+13
+Min =  50242.9586779
+Max =  28738972.3637 
+
+Gs_ZDT6
+Mean =  4122.06768908
+Var =  291831818.91
+Min =  0.0
+Max =  101663.4867 
+
+Gs_FON
+Mean =  66.8055941649
+Var =  2851.42039178
+Min =  0.0
+Max =  217.727665169 
